@@ -1,0 +1,24 @@
+2020-02-26 11:22:16 INFO  constructioncost.compoundinterestTest :23 - Compound interest is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.compoundinterestTest :24 - 216.65290240000013
+2020-02-26 11:22:16 WARN  constructioncost.compoundinterestTest :25 - No warnings in Compound interest and calculated
+2020-02-26 11:22:16 ERROR constructioncost.compoundinterestTest :26 - No errors in Compound interest and calculated
+2020-02-26 11:22:16 INFO  constructioncost.GenerateBill :26 - House construction with Above Standard material is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.GenerateBill :27 - 6000.0
+2020-02-26 11:22:16 WARN  constructioncost.GenerateBill :28 - No warnings in calculating the Above standard matrial house construction cost
+2020-02-26 11:22:16 ERROR constructioncost.GenerateBill :29 - No errors in calculating the Above standard matrial house construction cost
+2020-02-26 11:22:16 INFO  constructioncost.GenerateBill :35 - House construction with Highstandard material is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.GenerateBill :36 - 3600.0
+2020-02-26 11:22:16 WARN  constructioncost.GenerateBill :37 - No warnings in calculating the Highstandard matrial house construction cost
+2020-02-26 11:22:16 ERROR constructioncost.GenerateBill :38 - No errors in calculating Highstandard matrial house construction cost
+2020-02-26 11:22:16 INFO  constructioncost.GenerateBill :44 - House construction with Highstandard Fullautomatic material is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.GenerateBill :45 - 10000.0
+2020-02-26 11:22:16 WARN  constructioncost.GenerateBill :46 - No warnings in calculating the Highstandard Fullautomatic matrial house construction cost
+2020-02-26 11:22:16 ERROR constructioncost.GenerateBill :47 - No errors in calculating Highstandard Fullautomatic matrial house construction cost
+2020-02-26 11:22:16 INFO  constructioncost.GenerateBill :16 - House construction with Standard material is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.GenerateBill :17 - 3600.0
+2020-02-26 11:22:16 WARN  constructioncost.GenerateBill :18 - No warnings in calculating the standard matrial house construction cost
+2020-02-26 11:22:16 ERROR constructioncost.GenerateBill :19 - No errors in calculating the standard matrial house construction cost
+2020-02-26 11:22:16 INFO  constructioncost.SimpleinterestTest :17 - Simple interest is calculated
+2020-02-26 11:22:16 DEBUG constructioncost.SimpleinterestTest :18 - 200.0
+2020-02-26 11:22:16 WARN  constructioncost.SimpleinterestTest :19 - No warnings in Simple interest and calculated
+2020-02-26 11:22:16 ERROR constructioncost.SimpleinterestTest :20 - No errors in Simple interest and calculated
